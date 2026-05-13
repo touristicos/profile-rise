@@ -1,6 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "https://" + "ai-google-business-p-5qql.bolt.host" + "/:splat"
-  status = 200
-  force = true
-  conditions = { Host = ["app.profilerise.co.uk"] } 
